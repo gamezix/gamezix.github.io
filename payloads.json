@@ -21,7 +21,7 @@
       "name": "ftpsrv-ps5",
       "filename": "ftpsrv-ps5.elf",
       "url": "https://github.com/drakmor/ftpsrv/releases/download/1.6-ng-test2/ftpsrv-ps5.elf",
-      "description": "drakmor FTP Server with autopause",
+      "description": "drakmor FTP Server",
       "version": "v1.16-ng-test2"
       "checksum": "6364e0529416f400be123c52acdcda68efd5179d971c060286022131fd047b8e"
     },
