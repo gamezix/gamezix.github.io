@@ -1,0 +1,93 @@
+{
+  "name": "PS5 Payload Manager Updater (Unofficial By gamezix)",
+  "payloads": [
+    {
+      "name": "Kstuff Lite",
+      "filename": "kstuff.elf",
+      "url": "https://github.com/EchoStretch/kstuff-lite/releases/download/v1.09/kstuff.elf",
+      "description": "EchoStretch Kstuff Lite",
+      "version": "v1.09"
+      "checksum": "ec5212794dc6e44ee8e70fd0549abec6d3dac8c3e03ddbeafd9f869ffe97d4e8"
+    },
+    {
+      "name": "ShadowMountPlus",
+      "filename": "shadowmountplus.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.6beta16/shadowmountplus.elf",
+      "description": "Mount game",
+      "version": "v1.6test16"
+      "checksum": "a35246fb3bb6042b25653b51cdcbc33254b40339342bf1d2dd0d2eceee2ca526"
+    },
+     {
+      "name": "ftpsrv-ps5",
+      "filename": "ftpsrv-ps5.elf",
+      "url": "https://github.com/drakmor/ftpsrv/releases/download/1.6-ng-test2/ftpsrv-ps5.elf",
+      "description": "drakmor FTP Server with autopause",
+      "version": "v1.16-ng-test2"
+      "checksum": "6364e0529416f400be123c52acdcda68efd5179d971c060286022131fd047b8e"
+    },
+    {
+      "name": "Kylin Core - PS5 cheat engine",
+      "filename": "kylin-core.elf",
+      "url": "https://github.com/aydencharles/kylin-core-release/releases/download/v1.3.1-community-lite/kylin-core.elf",
+      "description": "KylinCore - PS5 cheat engine for PS5",
+      "version": "v1.3.1"
+      "checksum": "90320a4169d61be6e168e605e59c4d8fc89fb978f1772f03c2011e7e8087b8a3"
+    },
+    {
+      "name": "nanoDNS",
+      "filename": "nanodns.elf",
+      "url": "https://github.com/drakmor/nanoDNS/releases/download/0.3/nanodns.elf",
+      "description": "Nano DNS server for PS5",
+      "version": "v0.3"
+      "checksum": "ce1c8b31036ab948da65b362a4b6f249ffca8a555fc5bc4b051ec65d041bc944"
+    },
+    {
+      "name": "Pegasus DL",
+      "filename": "pegasus_dl.elf",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.7.0/pegasus_dl.elf",
+      "description": "FreeShop downloader",
+      "version": "v1.7.0"
+      "checksum": "cb2a4b3c248323f2432ce118cb1bf4975146035239ce9b571a9bdb51b3fee226"
+    },
+    {
+      "name": "ps5upload",
+      "filename": "ps5upload_v3.3.22.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v3.3.24/ps5upload-3.3.24.elf",
+      "description": "PS5 Upload tool",
+      "version": "v3.3.24"
+      "checksum": "0669701436835059cf5ddefbc7a739268fcb621337b59922d1670d36a5599896"
+    },
+    {
+      "name": "ps5debug-NG",
+      "filename": "ps5debug-NG_v1.3.0.elf",
+      "url": "https://github.com/OpenSourcereR-dev/ps5debug-NG/releases/download/1.3.0/ps5debug-NG_v1.3.0.elf",
+      "description": "PS5 Debug tool NG",
+      "version": "v1.3.0"
+      "checksum": "8f75fb90b45d7cc4d59147e3323577d7264cf572c78a27f76722202f492ad16a"
+    },
+    {
+      "name": "pldmgr",
+      "filename": "pldmgr_v0.3.1.elf",
+      "url": "https://github.com/itsPLK/ps5-payload-manager/releases/download/v0.3.1/pldmgr_v0.3.1.elf",
+      "description": "Payload manager",
+      "version": "v0.3.1"
+      "checksum": "518740adbacccb9094fadb07dd424c53ee290f38306449ccc9d6957fdf813c0b"
+    },
+    {
+      "name": "np-fake-signin-ps5",
+      "filename": "np-fake-signin-ps5_v1.3.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_activation/np-fake-signin-ps5_v1.3.elf",
+      "description": "Fake NP sign-in payload for PS5 activation",
+      "version": "v1.3"
+      "checksum": "f5c66fcb9e3f512e5463a7123d819b87f063d9955639366fa7ad26a2f0abefa4"
+    },
+    {
+      "name": "etaHEN 2.5B",
+      "filename": "etaHEN_2.5B.bin",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/etaHEN_2.5B.bin",
+      "description": "etaHEN 2.5B",
+      "version": "2.5B"
+      "checksum": "4845cac45095361b8983b14d6690622183b0dcfbf6d7fda16e161aa91ff0531e"
+    },
+  ]
+}
